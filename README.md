@@ -8,7 +8,7 @@ It also available at Heroku on this [link][3].
 
 JSON template:
 
-```json
+```javascript
 [
   '{{repeat(100)}}',
   {
