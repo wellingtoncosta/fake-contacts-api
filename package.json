@@ -1,0 +1,15 @@
+{
+  "name": "fake-contacts",
+  "version": "1.0.0",
+  "description": "A simple fake JSON API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wellington Costa",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
