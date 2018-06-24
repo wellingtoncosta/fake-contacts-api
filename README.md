@@ -23,7 +23,7 @@ JSON template:
 ]
 ```
 
-Thanks for [json-server][4] for the awesome project and [json-server-heroku][5] for the example of how to configure and deploy ```json-server``` based projetcs on Heroku.
+Thanks for [json-server][4] for the awesome project.
 
 # License
 
@@ -55,4 +55,3 @@ SOFTWARE.
 [2]: https://randomuser.me
 [3]: https://fake-contacts.herokuapp.com
 [4]: https://github.com/typicode/json-server
-[5]: https://github.com/jesperorb/json-server-heroku
