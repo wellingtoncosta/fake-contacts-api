@@ -4,7 +4,7 @@ A simple fake contacts API for testing web and mobile applications.
 
 This project produces a fake JSON generated on [JSON Generator][1] and fake images generated on [Random User][2].
 
-It also available at Heroku on this [link][3].
+It also available on Heroku at this [link][3].
 
 JSON template:
 
@@ -53,5 +53,5 @@ SOFTWARE.
 
 [1]: https://www.json-generator.com
 [2]: https://randomuser.me
-[3]: https://fake-contacts.herokuapp.com
+[3]: https://fake-contacts-api.herokuapp.com
 [4]: https://github.com/typicode/json-server
